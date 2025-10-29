@@ -1,0 +1,23 @@
+* e6a73c4 (HEAD -> main, origin/main) docs: Add changelog
+* dc24048 Bad commit
+| * e53a38d (feature/another-feature) Bad commit
+|/  
+| * 6e6bab5 (origin/feature/another-feature) feat: Add test feature
+|/  
+* ca3c6de (tag: v1.1.0, tag: v1.0.0) docs: Update README
+* 2721e6f feat: Add new feature
+* bad4e6f docs: Add FAQ section
+| * 3bc86d2 (origin/feature/new-feature, feature/new-feature) feat: Add new feature
+| * 5692aa8 chore: add package-lock file
+|/  
+*   56dbf1b Merge branch 'conflict-simulator'
+|\  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* |   45f380e merge: Resolve all conflicts between main and dev branches
+|\ \  
+| * | 02011a5 (instructor/dev, dev) updating dev
+| |/  
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
